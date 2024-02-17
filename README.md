@@ -1,4 +1,4 @@
-# a Copy Of a Game Called "Simon Says" 🧑‍🚀
+# a Copy Of a Game Called "Simon Says" 👨‍🚀
 
 This is a Simon Says game built with JavaScript and jQuery. The game is a classic memory game where players must repeat a sequence of colors by clicking on the corresponding buttons. The game starts with a simple sequence and becomes more challenging as the player progresses.
 
